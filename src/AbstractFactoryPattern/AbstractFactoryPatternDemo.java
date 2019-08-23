@@ -1,3 +1,4 @@
+//抽象工厂模式
 package AbstractFactoryPattern;
 
 public class AbstractFactoryPatternDemo {
