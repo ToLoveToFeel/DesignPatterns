@@ -1,3 +1,4 @@
+//5.原型模式
 package PrototypePattern;
 
 public class PrototypePatternDemo {
