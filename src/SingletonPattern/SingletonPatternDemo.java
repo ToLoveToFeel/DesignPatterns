@@ -1,4 +1,4 @@
-//单例模式的最简单实现方式
+//3.单例模式的最简单实现方式
 package SingletonPattern;
 
 public class SingletonPatternDemo {
